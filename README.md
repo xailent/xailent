@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @xailent
+- 👀 I’m interested in making a POS system for our business
+- 🌱 I’m currently learning code
